@@ -1,0 +1,36 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2157 MB
+    Driver:   20.19.15.4463
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Matthias\Dev\Unity Projects\Yahoo Ball\Build\Yahoo_Ball_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.573 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 7.698878 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4cf0 -> priority: 1 
+  Thread -> id: 2420 -> priority: 1 
+has quit game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
