@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf5e8f6f5d1de47618fd5602ee5cad4b
+timeCreated: 1513105127
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kobarapi
+  fontNames:
+  - Kobarapi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
